@@ -1,0 +1,9 @@
+
+L12 : Scaling instance types : https://cloud.google.com/appengine/docs/standard#instance_classes
+
+L12 : Autoscaling params : https://cloud.google.com/appengine/docs/legacy/standard/python/how-instances-are-managed
+
+& https://cloud.google.com/appengine/docs/flexible/reference/app-yaml?tab=python#automatic_scaling
+
+
+L12 : App engine pricing : https://cloud.google.com/appengine/pricing/?utm_source=google&utm_medium=cpc&utm_campaign=emea-emea-all-en-dr-bkws-all-all-trial-e-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_501960025577-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Compute%20~%20App%20Engine_Pricing%20Feb%20Build-KWID_43700061567958688-aud-1641092196940%3Akwd-851904907182-userloc_1000013&utm_term=KW_gcp%20app%20engine%20pricing-NET_g-PLAC_&gclid=Cj0KCQiAyracBhDoARIsACGFcS4k9iZGbCfYw-0rLwhiYtE5DwKaGk5W4MVUHBH3y-NmMEhk87jdpyEaAiB9EALw_wcB&gclsrc=aw.ds
