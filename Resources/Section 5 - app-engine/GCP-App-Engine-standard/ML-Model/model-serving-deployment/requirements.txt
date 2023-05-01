@@ -1,4 +1,4 @@
-Flask==2.1.0
+Flask==2.3.2
 google-cloud-storage==1.30.0
 gcsfs==0.6.2
 numpy
